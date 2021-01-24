@@ -1,0 +1,20 @@
+{
+  "name": "Lab01_101158122",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henok256/Lab01_101158122.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henok256/Lab01_101158122/issues"
+  },
+  "homepage": "https://github.com/henok256/Lab01_101158122#readme"
+}
