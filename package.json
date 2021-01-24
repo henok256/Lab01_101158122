@@ -1,8 +1,9 @@
 {
   "name": "Lab01_101158122",
   "version": "1.0.0",
-  "description": "",
+  "description": "Read the given CSV file using stream or fs",
   "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,11 +11,19 @@
     "type": "git",
     "url": "git+https://github.com/henok256/Lab01_101158122.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "fs",
+    "nodejs",
+    "stream"
+  ],
+  "author": "Henok Mengesha",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/henok256/Lab01_101158122/issues"
   },
-  "homepage": "https://github.com/henok256/Lab01_101158122#readme"
+  "homepage": "https://github.com/henok256/Lab01_101158122#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "node-csv": "^0.1.2"
+  }
 }
